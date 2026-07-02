@@ -82,8 +82,8 @@ export default function Hero() {
             </Button>
 <Button asChild variant="outline" size="lg" className="gap-2">
   <a
-    href="/AsadResume.pdf"
-    download="AsadResume.pdf"
+    href="/Asad-ur-Rahman-Resume.pdf"
+    download="Asad-ur-Rahman-Resume.pdf"
   >
     Download Resume
   </a>
